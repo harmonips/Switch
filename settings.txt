@@ -1,3 +1,3 @@
-number_of_relay:3
+number_of_relay:1
 pid:0x6001
 vid:0x0403
